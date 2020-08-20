@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0%;
+  /* overflow-x: hidden; */
+}
+
+#bckgrnd {
+  top: 50px;
+  position: static;
+  height: 80vh;
+  width: 100%;
+  background-image: url(../img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#heading {
+  place-items: center;
+  padding-top: 70px;
+  margin: 0;
+}
+
+#div1bg {
+  background-image: url(../img/div1Bg.png);
+  height: 210vh;
+  background-size: cover;
+  background-position: left;
+
+}
+
+#text {
+  /* padding: 50px; */
+  border: 30px;
+}
+
+
+#pic1 {
+  height: 30vh;
+  background-image: url(../img/p1.png);
+  background-size: cover;
+}
+
+#pro {
+  padding: 30px;
+}
+
+.pic2 {
+  height: 40vh;
+  background-image: url(../img/p2.png);
+  background-size: cover;
+}
+
+#div2bg {
+  background-image: url(../img/div2Bg.png);
+  background-size: cover;
+  height: 200vh;
+  background-position: right;
+}
+
+.pic3 {
+  height: 40vh;
+  background-image: url(../img/p3.png);
+  background-size: cover;
+}
+
+#div3bg {
+  background-image: url(../img/div3Bg.png);
+  height: 160vh;
+  background-size: cover;
+  background-position: left;
+}
+
+.pic4 {
+  height: 40vh;
+  background-image: url(../img/p4.png);
+  background-size: cover;
+}
+
+.blog {
+  background-color: cornflowerblue;
+}
+
+#footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+#link {
+  text-align: center;
+}
